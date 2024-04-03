@@ -11,4 +11,3 @@ def guess(x):
     
     print(f'yay , congrats . you  have guessed a number {random_number}correctly!!')
 guess(100)
-n
